@@ -1,0 +1,11 @@
+appdirs==1.4.4
+certifi==2025.4.26
+greenlet==3.2.1
+importlib_metadata==8.7.0
+playwright==1.52.0
+pyee==13.0.0
+tqdm==4.67.1
+typing_extensions==4.13.2
+urllib3==1.26.20
+websockets==10.4
+zipp==3.21.0
